@@ -1,2 +1,3 @@
-# engineering-notebook
-Bootstrap Engineering Notebook in Obsidian
+# 📝 Engineering Notebook
+
+
