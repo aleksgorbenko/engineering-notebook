@@ -1,0 +1,469 @@
+{
+  "main": {
+    "id": "d6c8f4fc5c5f742d",
+    "type": "split",
+    "children": [
+      {
+        "id": "efdea309ab381c33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d513bfcc31fba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "moc.company_name.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "moc.company_name"
+            }
+          },
+          {
+            "id": "ed3b009b142853f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/My Team.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Team"
+            }
+          },
+          {
+            "id": "7b13c363f5683e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/My Team Brag File.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Team Brag File"
+            }
+          },
+          {
+            "id": "18f9821b9322f7cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/Company-Wide Meetings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Company-Wide Meetings"
+            }
+          },
+          {
+            "id": "01f1a5aa3ba78b2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/My Team.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Team"
+            }
+          },
+          {
+            "id": "8da0103e2ffc8a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/My Brag File.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Brag File"
+            }
+          },
+          {
+            "id": "c008d3b678364a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/Product X.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product X"
+            }
+          },
+          {
+            "id": "71fa47b9c85430b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_template/new_PRD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new_PRD"
+            }
+          },
+          {
+            "id": "81a127ed66beb183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_template/new_weekly_review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new_weekly_review"
+            }
+          },
+          {
+            "id": "dec4fef726a8306a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/moc.company_name.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "moc.company_name"
+            }
+          },
+          {
+            "id": "f859a7b94a6cd6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/Product X.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product X"
+            }
+          },
+          {
+            "id": "84eae8af7f7ac696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_template/new_quarterly_review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new_quarterly_review"
+            }
+          },
+          {
+            "id": "4ed8b88ab2a5921b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_template/new_quarterly_review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new_quarterly_review"
+            }
+          },
+          {
+            "id": "5b0484f84e7cabe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manager Advice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manager Advice"
+            }
+          },
+          {
+            "id": "b1eeae7310b1620f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/Self.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Self"
+            }
+          },
+          {
+            "id": "d092d547426219f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/My Off-boarding Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Off-boarding Checklist"
+            }
+          },
+          {
+            "id": "bbb4befba3394014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/My Brag File.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Brag File"
+            }
+          },
+          {
+            "id": "641fc75548a4ecec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "1d383d1726f5bac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_template/new_weekly_review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new_weekly_review"
+            }
+          },
+          {
+            "id": "1871ce01bf61c21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal/Self.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Self"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58c97e5ba6eccb95",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f3c33248d74ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439bc21678e4cbf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1f6b41a830e3daa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09985238c20a7bfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ed8db0fedb5cbb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72f53f60f6b0358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c22d499bd9f37d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Company Wide Meetings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Company Wide Meetings"
+            }
+          },
+          {
+            "id": "6895b30115155530",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Company Wide Meetings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Company Wide Meetings"
+            }
+          },
+          {
+            "id": "449942c62161f644",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c76fea8e9a2a878",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Company Wide Meetings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Company Wide Meetings"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f859a7b94a6cd6e7",
+  "lastOpenFiles": [
+    "_template/new_product.md",
+    "internal/Product X.md",
+    "internal/moc.company_name.md",
+    "_template/new_quarterly_review.md",
+    "Manager Advice.md",
+    "internal/Self.md",
+    "internal/My Off-boarding Checklist.md",
+    "Engineer Career Advice.md",
+    "internal/My Brag File.md",
+    "README.md",
+    "internal/My Onboarding Checklist.md",
+    "_template/new_weekly_review.md",
+    "internal/Company-Wide Meetings.md",
+    "_template/Untitled.md",
+    "_template/new_service.md",
+    "_template/new_RFC.md",
+    "_template/new_101.md",
+    "_template/new_ADR.md",
+    "_template/new_annual_review.md",
+    "_template/new_API_proposal.md",
+    "_template/new_cheatsheet.md",
+    "_template/new_internal_note.md",
+    "_template/new_note.md",
+    "_template/new_PRD.md",
+    "moc.public.md",
+    "internal/101s.md",
+    "internal_media",
+    "engineering-notebook"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "showLineNumber": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "internal",
+  "attachmentFolderPath": "internal_media"
+}
